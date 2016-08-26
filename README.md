@@ -21,6 +21,7 @@ Each script performs these tasks :
   4. opens a png file as a device  
   5. generates a plot to this device  
   6. closes the device  
+  7. clears the environment
 
 ###Note:  
 Each plot script is independent of the others, so each script will pull the complete 20M zip file from the web.  
